@@ -1,0 +1,40 @@
+_repo: Complete-Story-of-the-San-Francisco-Horror_26380
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Fallows, Samuel
+    birthdate: 1835
+    deathdate: 1922
+    gutenberg_agent_id: '31963'
+    url: http://www.gutenberg.org/2009/agents/31963
+  - agent_name: Linthicum, Richard
+    birthdate: 1859
+    deathdate: 1934
+    gutenberg_agent_id: '31962'
+    url: http://www.gutenberg.org/2009/agents/31962
+  - agent_name: White, Trumbull
+    birthdate: 1868
+    deathdate: 1941
+    gutenberg_agent_id: '1400'
+    url: http://www.gutenberg.org/2009/agents/1400
+description: ''
+gutenberg_issued: '2008-08-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26380'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Disasters'
+- !lcc 'F850.5'
+- !lcsh 'San Francisco Earthquake and Fire, Calif., 1906'
+- !lcsh 'Volcanoes'
+- !lcsh 'Earthquakes'
+- !lcsh 'Vesuvius (Italy) -- Eruption, 1906'
+title: Complete Story of the San Francisco Horror
+url: http://www.gutenberg.org/ebooks/26380
